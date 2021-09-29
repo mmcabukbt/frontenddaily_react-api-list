@@ -1,0 +1,83 @@
+[
+   {
+      "id": 0,
+      "name": "Hunter",
+      "category": "Data access",
+      "description": "Hunter API makes it easy to find or verify professional email addresses.",
+      "icon": "icons/icon-hunter.svg",
+      "bookmark": false,
+      "docurl": "http://localhost:3000/"
+   },
+   {
+      "id": 1,
+      "name": "Twilio",
+      "category": "Automation",
+      "description": "Hunter API makes it easy to find or verify professional email addresses.",
+      "icon": "icons/icon-twillio.svg",
+      "bookmark": false,
+      "docurl": "http://localhost:3000/"
+   },
+   {
+      "id": 2,
+      "name": "WhatsApp Business",
+      "category": "Data access",
+      "description": "Send and receive SMS and MMS messages as well as query meta-data about text messages.",
+      "icon": "icons/icon-whatsapp.svg",
+      "bookmark": false,
+      "docurl": "http://localhost:3000/"
+   },
+   {
+      "id": 3,
+      "name": "Stripe",
+      "category": "Data access",
+      "description": "A suite of payment APIs that powers commerce for online businesses of all sizes.",
+      "icon": "icons/icon-stripe.svg",
+      "bookmark": false,
+      "docurl": "http://localhost:3000/"
+   },
+   {
+      "id": 4,
+      "name": "Typeform",
+      "category": "Data access",
+      "description": "Create, retrieve, update, and delete your typeforms, themes, and images.",
+      "icon": "icons/icon-typeform.svg",
+      "bookmark": false,
+      "docurl": "http://localhost:3000/"
+   },
+   {
+      "id": 5,
+      "name": "BlaBla Car",
+      "category": "Automation",
+      "description": "Hunter API makes it easy to find or verify professional email addresses.",
+      "icon": "icons/icon-blablacar.svg",
+      "bookmark": false,
+      "docurl": "http://localhost:3000/"
+   },
+   {
+      "id": 6,
+      "name": "Meteorologisk Institutt",
+      "category": "Data access",
+      "description": "Hunter API makes it easy to find or verify professional email addresses.",
+      "icon": "icons/icon-mi.svg",
+      "bookmark": false,
+      "docurl": "http://localhost:3000/"
+   },
+   {
+      "id": 7,
+      "name": "Asana",
+      "category": "Data access",
+      "description": "Send and receive SMS and MMS messages as well as query meta-data about text messages.",
+      "icon": "icons/icon-asana.svg",
+      "bookmark": false,
+      "docurl": "http://localhost:3000/"
+   },
+   {
+      "id": 8,
+      "name": "Mailchimp",
+      "category": "Automation",
+      "description": "Hunter API makes it easy to find or verify professional email addresses.",
+      "icon": "icons/icon-mailchimp.svg",
+      "bookmark": false,
+      "docurl": "http://localhost:3000/"
+   }
+]
