@@ -1,4 +1,10 @@
 ![project_view](/public/react-api-list.png) 
+
+# To see how it works (on Netlify) >>
+https://css-react-api-list.netlify.app/
+# 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
